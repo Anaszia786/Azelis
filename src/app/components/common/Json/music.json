@@ -1,0 +1,30 @@
+
+{
+    "music_files": [
+      {
+        "title": "Song One",
+        "artist": "Artist A",
+        "album": "Album Alpha",
+        "genre": "Rock",
+        "duration": "3:45",
+        "file_name": ""
+      },
+      {
+        "title": "Song Two",
+        "artist": "Artist B",
+        "album": "Album Beta",
+        "genre": "Pop",
+        "duration": "4:20",
+        "file_name": "song_two.mp3"
+      },
+      {
+        "title": "Song Three",
+        "artist": "Artist C",
+        "album": "Album Gamma",
+        "genre": "Jazz",
+        "duration": "5:10",
+        "file_name": "song_three.mp3"
+      }
+    ]
+  }
+  
